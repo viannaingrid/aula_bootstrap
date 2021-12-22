@@ -1,0 +1,41 @@
+
+body {
+    font: 20px verdana, sans-serif;
+}
+.navbar {
+    background-color: #81BEF7;
+    font-style: italic;
+}
+
+.quem-somos {
+    background-color: #CEF6CE;
+    color: #0A1B2A;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color: #FAAC58;
+}
+
+.texto {
+   font: 15px italic arial;
+}
+
+.texto-servicos {
+    font: 13px verdana;
+    text-align: center;
+}
+
+.servicos {
+    background-color: #E6E6E6;
+}
+
+.bg-footer {
+    background-color: black;
+    color: whitesmoke;
+    font: italic Brush Script MT, Brush Script Std, cursive;
+}
